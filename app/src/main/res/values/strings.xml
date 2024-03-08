@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WORK</string>
+    <string name="tipo_empleado_prompt">Seleccione un tipo de empleado</string>
+    <string-array name="tipos_empleado">
+        <item>Tipo 1</item>
+        <item>Tipo 2</item>
+        <item>Tipo 3</item>
+        <item>Tipo 4</item>
+    </string-array>
+    <string name="horas_trabajadas_prompt">Seleccione las horas trabajadas</string>
+    <string-array name="horas_trabajadas">
+        <item>Menos de 40 horas</item>
+        <item>Más de 40 horas</item>
+    </string-array>
+    <string name="boton_nuevo">NUEVO</string>
+    <string name="boton_salir">SALIR</string>
+</resources>
